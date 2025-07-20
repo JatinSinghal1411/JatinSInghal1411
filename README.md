@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jatin Singhal, and I'm a passionate web developer from India.</p>
+<h3 align="center">My name is Jatin Singhal, and I'm a passionate web developer from India.</h3>
 
 ###
 
